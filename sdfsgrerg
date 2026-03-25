@@ -1,8 +1,9 @@
 return {
-"FE3F98F7-B8EC-4EF5-8FBA-94775388254A",
-"b3413a47-34ee-4c98-9ed2-0cc7eae137b3",
-"d92ec80f-c760-4f17-8301-5157393b4d53",
-"9bd1bbbf-68d3-42b5-9df4-4aaead178e11",
-"8d29a8ee-78fd-467b-a373-2d7d159c0e88",
-"2A475FC6-95F4-4A5F-B532-A1A3CF458F33"
+"FE3F98F7-B8EC-4EF5-8FBA-94775388254A", -- rein
+"b3413a47-34ee-4c98-9ed2-0cc7eae137b3 Expired", -- door
+"d92ec80f-c760-4f17-8301-5157393b4d53", --banana
+"9bd1bbbf-68d3-42b5-9df4-4aaead178e11", -- llll
+"8d29a8ee-78fd-467b-a373-2d7d159c0e88", -- kaya
+"2A475FC6-95F4-4A5F-B532-A1A3CF458F33", -- ll
+"9a68066f-69c6-43ab-8dff-1d24d3bb1193" -- scar
 }
