@@ -25,5 +25,6 @@ return {
 "2632c97b-9d6d-47a8-abff-640973c298ee Expired", -- IsoEwo12 5 days 24/4/2026
 "EE903CBE-99EA-4D00-9BDB-73449CBA0C10", "f8b1dedb-47b1-4397-a728-fc2f6e895c38", -- PandaEchoBlad32005 5 day 29/4/2026
 "6c6f81b4-3b84-48e6-9089-7946db6d62ed", -- Alupigusns 10 days 26/4/2026
-"48d2f08b-d450-4b32-90c1-32bf450373af" -- mil 7 days 30/4/2026
+"48d2f08b-d450-4b32-90c1-32bf450373af",-- mil (zll_t) 7 days 30/4/2026
+"d9423320-b54c-4ec3-ac0f-b007da3f5684" -- BonniebluesPuni 1 month + 8 days 30/4/2026 
 }
