@@ -37,7 +37,6 @@ return {
 "b2425526-29ce-4ad0-b456-d3a3f45cc310", -- 3blickslazynka 1 month 1/5/2026
 "ef43e32a-8c6a-4f56-8809-7b799ed662e4", -- LUCKIII 5 day 23/5/2026
 "91F07430-AE94-4512-94F2-3E4989F93AAA", "5cc85121-67da-4ec7-9f1e-c29d5d2d3f5f", -- red 1 month 6/5/2026
-"9f88bd2d-11cc-435d-9a18-0124cb65fdce Expired", -- hedcman 6 days 2/5/2026
 "6AC5A948-6991-4677-9480-2BBE031DC2C5", -- ogamidived 1 day 23/5/2026
 "7d81d98a-9f6c-44ab-a4db-c55d1b2b4636 Expired", -- NiyahSavv315 7 days 7/5/2026
 "b55a755b-88c9-411d-9f0e-e8971d42745a", -- 何でも (Miradoesdesigning) 17 days 4/5/2026
@@ -53,7 +52,6 @@ return {
 "79cd22d1-a646-46ae-9da6-5d3bc7aee204 Expired", -- Desolatedobisdian 1 day 18/5/2026
 "f58c0ed7-c6ea-40c0-9f29-ab52e2a860b0", "6b3c7c72-7b46-406d-a01b-395bd2608c2a", -- Jaxon 2 months 15 days 10/5/2026
 "e240d629-0dca-4248-96af-aed4132f3cd2 Expired", -- 00BaconBoisCOOL 11/5/2026 1 day
-"32f16feb-4d1a-48ed-85fe-47d1f95fef18", -- hedcman 7 days 12/5/2026
 "e73f7338-ad1b-4b29-b1e0-95c38e406a3d", "5e4164b7-f96c-4aab-be84-7fb3a20b77a1", -- erenixt 12 days 12/5/2026
 "b04f0eb7-3be9-424e-8e38-3afa59f8a56b", -- Demonsta79 5 day 28/5/2026
 "26773E01-4264-420F-A974-37D15020B65D Expired", -- Wooda 5 days 18/5/2026
@@ -69,10 +67,7 @@ return {
 "4cbb7bd9-3972-4de9-859e-0a947c6f9908", -- Jr_urii 1 day 24/5/2026
 "a346aa1b-9cee-4f98-8744-1e817d837eda", -- facembleeda 1 day 24/5/2026
 "460b0607-c6d7-48dd-8edd-09afa117373d", -- zzz 5 days 25/5/2026
-"f1854e0a-7a5e-4738-98f2-7a45e098e963", -- hedcman 7 days 27/5/2026
-"f1854e0a-7a5e-4738-98f2-7a45e098e963", -- hedcman 1 28/5/2026
 "6a9ef6df-b131-498a-9f79-1abe1cae17cc", -- Niah 1 day 28/5/2026
-"42b2d65a-6ffa-4996-82e2-fe7e90a8692f", -- hedcman 5 days 29/5/2026
 "EFF829DA-6C72-4C23-82B7-A311B68976FA", -- Atlantic 6 days 28/5/2026
 "42b2d65a-6ffa-4996-82e2-fe7e90a8692f" -- 5 days 29/5/2026
 }
