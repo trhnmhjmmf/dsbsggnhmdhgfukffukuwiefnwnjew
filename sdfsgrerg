@@ -29,7 +29,6 @@ return {
 "67527b5b-dffb-44d4-9ba0-5bfd7c25db19 Expired", -- TheNewAwesomeBoy 7 days 19/4/2026
 "cfff49a5-bf1c-4c61-ba73-f6a3196f154f Expired", -- renedesuu 7 days 24/4/2026
 "97f23a46-b559-4b26-817e-d214aeae63a6 Expired", -- lIlIlIlIlIlIlIlI387 5 days 24/4/2026
-"fed7a2e3-d250-4c68-a5d3-60e6646a76a1", -- Hedcman 1 month + 1 day + 1 day 24/4/2026
 "2632c97b-9d6d-47a8-abff-640973c298ee Expired", -- IsoEwo12 5 days 24/4/2026
 "6c6f81b4-3b84-48e6-9089-7946db6d62ed Expired", -- Alupigusns 10 days 26/4/2026
 "48d2f08b-d450-4b32-90c1-32bf450373af Expired",-- mil (zll_t) 7 days 30/4/2026
@@ -71,6 +70,6 @@ return {
 "EFF829DA-6C72-4C23-82B7-A311B68976FA", -- Atlantic 6 days 28/5/2026
 "42b2d65a-6ffa-4996-82e2-fe7e90a8692f", -- 5 days 29/5/2026
 "E4C3EA05-743E-4BA6-B4A0-6190F523B09E", -- Wooda 1 day 1/6/2026
-"611284cc-dd09-40a1-ba4c-591873b5be63", -- Hedcman 1+1 day 2/6/2026
+"611284cc-dd09-40a1-ba4c-591873b5be63", -- Hedcman 15 days 2/6/2026
 "bfd8a31f-b6e3-449d-9887-3f5704691206" -- Akir 5 days
 }
