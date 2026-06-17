@@ -74,5 +74,6 @@ return {
 "bc68454a-d6be-452c-a2a1-d3f81b6bb4d5 Expired", -- Akir 5 days
 "028f6a13-01de-402c-bba0-cd2431da3561", -- Jydn2_8 1 month 3/6/2026
 "6f9aa15c-ed70-4d89-a77c-eaad3e487e04 Expired", -- Atlantic 7 days 12/6/2026
-"73C3CDD3-7F5B-4F20-8608-B2374F013AF1" -- SPECT 5 days 17/6/2026
+"73C3CDD3-7F5B-4F20-8608-B2374F013AF1," -- SPECT 5 days 17/6/2026
+"de11e077-16d2-464e-a190-545f117e03a6" -- LUCKII 1 day 17/6/2026
 }
