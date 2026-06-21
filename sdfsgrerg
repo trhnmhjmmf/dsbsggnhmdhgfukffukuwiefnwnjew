@@ -74,7 +74,6 @@ return {
 "bc68454a-d6be-452c-a2a1-d3f81b6bb4d5 Expired", -- Akir 5 days
 "028f6a13-01de-402c-bba0-cd2431da3561", -- Jydn2_8 1 month 3/6/2026
 "73C3CDD3-7F5B-4F20-8608-B2374F013AF1", -- SPECT 5 days 17/6/2026
-"de11e077-16d2-464e-a190-545f117e03a6 Expired", -- LUCKII 1 day 17/6/2026
 "d73af833-eec3-4176-b3a2-408e583e1b9f Expired", -- iamheavenssent 1 day 17/6/2026
 "b8ede4b8-d68f-4b38-99d3-c0f004525d98 Expired", -- 05l24l21 (Narii) 1 day 17/6/2026
 "A5041DEC-25B4-43FB-9E9D-7E535FA2F800 Expired", -- jakianamessiana 1 day 17/6/2026
@@ -86,5 +85,6 @@ return {
 "f076c373-fa92-4e99-9148-eca7958eb634", -- d_lrince292 2 days 20/6/2026
 "607fe176-fe22-49d1-8dc5-5f6190d9efe7", -- iiwofy 1 day 20/6/2026
 "de11e077-16d2-464e-a190-545f117e03a6", -- LUCKII 1 day 21/6/2026
-"ba5ab3d8-3407-4735-83e0-c7aaf8765ad5" -- Anthony 1 day 21/6/2026
+"ba5ab3d8-3407-4735-83e0-c7aaf8765ad5", -- Anthony 1 day 21/6/2026
+"022c0311-5c37-4578-bc50-8b1a56256be3" -- YLYDEE 1 day 21/6/2026
 }
