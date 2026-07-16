@@ -23,7 +23,7 @@ return {
 "0ed7e639-0a9f-4d7a-abde-82b0935fbf0f", "E5BFB711-0A10-4A3B-9579-488A5DD45062", -- therealspam009 1 Month 7/5/2026
 "61e1ccd9-71f0-4704-923e-efbe4d22c4b3 Expired", -- Kratos 14 days 7/5/2026
 "1ee5c62e-2bff-436f-b39f-69b41938b308 Expired", -- daynnight24/7 3 days 16/4/2026
-"F6A3D019-CE60-4A2F-8C07-EE420C5266AC", -- MondayMorningMisPro 1 month 18/4/2026
+"F6A3D019-CE60-4A2F-8C07-EE420C5266AC Expired", -- MondayMorningMisPro 1 month 18/4/2026
 "0F46D472-663A-430E-933C-6F8DD957C0A5 Expired", -- fredy2244 5 days 16/5/2026
 "E4C3EA05-743E-4BA6-B4A0-6190F523B09E", -- Wooda 2 Months and 15 days 22/6/2026
 "d1b9cb9a-6b96-4c54-9570-cc931f9d6d48 Expired", -- JAE2CRAZY2 7 days 19/4/2026
@@ -33,19 +33,19 @@ return {
 "2632c97b-9d6d-47a8-abff-640973c298ee Expired", -- IsoEwo12 5 days 24/4/2026
 "6c6f81b4-3b84-48e6-9089-7946db6d62ed Expired", -- Alupigusns 10 days 26/4/2026
 "48d2f08b-d450-4b32-90c1-32bf450373af Expired",-- mil (zll_t) 7 days 30/4/2026
-"d9423320-b54c-4ec3-ac0f-b007da3f5684", -- BonniebluesPuni 1 month + 8 days 30/4/2026 
-"b2425526-29ce-4ad0-b456-d3a3f45cc310", -- 3blickslazynka 1 month 1/5/2026
-"EBB900DB-21CF-4F8A-8233-D90641CB42A7", "5cc85121-67da-4ec7-9f1e-c29d5d2d3f5f", -- red 1 month 6/5/2026
+"d9423320-b54c-4ec3-ac0f-b007da3f5684 Expired", -- BonniebluesPuni 1 month + 8 days 30/4/2026 
+"b2425526-29ce-4ad0-b456-d3a3f45cc310 Expired", -- 3blickslazynka 1 month 1/5/2026
+"EBB900DB-21CF-4F8A-8233-D90641CB42A7 Expired", "5cc85121-67da-4ec7-9f1e-c29d5d2d3f5f Expired", -- red 1 month 6/5/2026
 "6AC5A948-6991-4677-9480-2BBE031DC2C5 Expired", -- ogamidived 1 day 23/5/2026
 "7d81d98a-9f6c-44ab-a4db-c55d1b2b4636 Expired", -- NiyahSavv315 7 days 7/5/2026
-"b55a755b-88c9-411d-9f0e-e8971d42745a", -- 何でも (Miradoesdesigning) 17 days 4/5/2026
+"b55a755b-88c9-411d-9f0e-e8971d42745a Expired", -- 何でも (Miradoesdesigning) 17 days 4/5/2026
 "4fa66144-4e57-400e-bd93-efbe07279031 Expired", -- josh1435 6 day 4/5/2026
 "58b5cae1-113e-46f1-9ecf-b8b8ed596b0b Expired", -- Rawrrawr_741 1 day 4/5/2026
 "c9b5a280-aa6a-4def-affe-6e01fddc82f9 Expired", -- Jake 2 days 5/5/2026
 "c8c11092-3516-491b-85b9-4a494b52aa5f Expired", -- Blue 5 days 5/5/2026
 "1f5bb8b3-e226-4d3c-b0bb-dfcce1026d66 Expired", -- tsuyukan 5 days 5/5/2026
 "d6d94315-835e-4c17-ac55-e1378cb15eb8 Expired", -- Tyler594989m 7 days 18/5/2026
-"7133831a-b8b7-48c9-9c90-4219e1a004e5", "9b7a60d1-cb56-4ed6-b09a-7b6117f7fc34", -- RxyaltyS3th 6 months 9/5/2026
+"7133831a-b8b7-48c9-9c90-4219e1a004e5 Expired", "9b7a60d1-cb56-4ed6-b09a-7b6117f7fc34 Expired", -- RxyaltyS3th 6 months 9/5/2026
 "910ee60c-9044-437d-bb09-fa7a249c2a43 Expired", -- WSOBB_MARII 5 days 9/5/2026
 "cdf7338c-eb6d-432e-860d-e0b884b78df2 Expired", -- Markell 1 day 9/5/2026
 "79cd22d1-a646-46ae-9da6-5d3bc7aee204 Expired", -- Desolatedobisdian 1 day 18/5/2026
@@ -67,18 +67,18 @@ return {
 "a346aa1b-9cee-4f98-8744-1e817d837eda Expired", -- facembleeda 1 day 24/5/2026
 "460b0607-c6d7-48dd-8edd-09afa117373d Expired", -- zzz 5 days 25/5/2026
 "6a9ef6df-b131-498a-9f79-1abe1cae17cc Expired", -- Niah 1 day 3/6/2026
-"EFF829DA-6C72-4C23-82B7-A311B68976FA", "6f9aa15c-ed70-4d89-a77c-eaad3e487e04", -- Atlantic (Titanaat33) 7 days 12/6/2026
+"EFF829DA-6C72-4C23-82B7-A311B68976FA Expired", "6f9aa15c-ed70-4d89-a77c-eaad3e487e04 Expired", -- Atlantic (Titanaat33) 7 days 12/6/2026
 "42b2d65a-6ffa-4996-82e2-fe7e90a8692f Expired", -- 5 days 29/5/2026
 "E4C3EA05-743E-4BA6-B4A0-6190F523B09E Expired", -- Wooda 1 day 1/6/2026
 "bc68454a-d6be-452c-a2a1-d3f81b6bb4d5 Expired", -- Akir 5 days
-"028f6a13-01de-402c-bba0-cd2431da3561", -- Jydn2_8 1 month 3/6/2026
+"028f6a13-01de-402c-bba0-cd2431da3561 Expired", -- Jydn2_8 1 month 3/6/2026
 "d73af833-eec3-4176-b3a2-408e583e1b9f Expired", -- iamheavenssent 1 day 17/6/2026
 "b8ede4b8-d68f-4b38-99d3-c0f004525d98 Expired", -- 05l24l21 (Narii) 1 day 17/6/2026
 "A5041DEC-25B4-43FB-9E9D-7E535FA2F800 Expired", -- jakianamessiana 1 day 17/6/2026
 "4c4bd567-5b86-4678-8c8c-ce9d6c09a58d Expired", -- OGPLAYER 1 Day 18/6/2026
 "CC01D39F-FBEE-4E96-BF21-6949F1830196 Expired", -- Scamuh 1 day 18/6/2026
 "1bfdd5c3-58e4-4a65-b08a-9f1f5009a871 Expired", -- Heartbrxxxken (Damien) 1 day 18/6/2026
-"57B4D568-BF9F-4BEA-A302-2D189FFC5DA4", -- 183VK 5 days 1/7/2026
+"57B4D568-BF9F-4BEA-A302-2D189FFC5DA4 Expired", -- 183VK 5 days 1/7/2026
 "2B580184-01F3-48F7-8632-C9BBDE220D9D Expired", -- vreimsia114 5 days 19/6/2026
 "f076c373-fa92-4e99-9148-eca7958eb634 Expired", -- d_lrince292 2 days 20/6/2026
 "607fe176-fe22-49d1-8dc5-5f6190d9efe7 Expired", -- iiwofy 1 day 20/6/2026
@@ -86,17 +86,17 @@ return {
 "ba5ab3d8-3407-4735-83e0-c7aaf8765ad5 Expired", -- Anthony 1 day 21/6/2026
 "022c0311-5c37-4578-bc50-8b1a56256be3 Expired", -- YLYDEE 1 day 21/6/2026
 "CC01D39F-FBEE-4E96-BF21-6949F1830196 Expired", -- ALTACCNTB2H 1 day 22/6/2026
-"32569094-5ab8-44b3-842b-529555ebe4e9", -- Zayy_isgonnagetpaid 7 days 23/6/2026
+"32569094-5ab8-44b3-842b-529555ebe4e9 Expired", -- Zayy_isgonnagetpaid 7 days 23/6/2026
 "6e1450be-4503-4252-8a8a-25127a0eadc2 Expired", -- holydiior 1 day 23/6/2026
 "269bc1a9-1e5f-4c68-abb0-b3cef92aa5d6 Expired", -- LUCKII 5 days
-"2ca8d162-aa8c-4cb1-a3ed-2a69ab14c2d9", -- RIP_Devil777666 1 + 5 day 26/6/2026
+"2ca8d162-aa8c-4cb1-a3ed-2a69ab14c2d9 Expired", -- RIP_Devil777666 1 + 5 day 26/6/2026
 "2443c919-a688-4f43-bf9f-db6f6224aec8 Expired", -- cnncm903 1 day 26/6/2026
 "5dbdd895-a1cf-4b36-9887-bdd9cb655d76 Expired", -- kingxdriftt 5 days 26/06/2026
 "b14eb1c1-8172-47fb-8781-5ecf8300f41c Expired", -- hayden_E1212 1 day 27/6/2026
-"df7685b8-7c8d-4502-b824-bf61431e49a3", -- Hedcman 1 day 2/7/2026
-"2ebaf130-f805-4dd4-93af-4bdce619e3ec", -- Sarah_Yupii1 5 days 27/6/2026
+"df7685b8-7c8d-4502-b824-bf61431e49a3 Expired", -- Hedcman 1 day 2/7/2026
+"2ebaf130-f805-4dd4-93af-4bdce619e3ec Expored", -- Sarah_Yupii1 5 days 27/6/2026
 "C7054463-2C17-49DC-8F30-5D69C047AF28 Expired", -- ClawZapTiger 1 day 27/6/2026
-"D468E575-B3D8-4CB0-924A-E161DD4DB3A7", -- theyfwsav12 7 days 27/6/2026
+"D468E575-B3D8-4CB0-924A-E161DD4DB3A7 Expired", -- theyfwsav12 7 days 27/6/2026
 "C7054463-2C17-49DC-8F30-5D69C047AF28 Expired", -- ClawZapTiger 1 day 28/6/2026
 "47d3a5ad-39b9-4168-a9e7-539951a7f291 Expired", -- Romeocolewarr 1 day 29/6/2026
 "06f566ea-5988-4545-8abb-7b0dd07cb3cd Expired", -- Sanisnice25 1 day 29/6/2026
