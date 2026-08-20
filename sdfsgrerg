@@ -113,7 +113,7 @@ return {
 "73C3CDD3-7F5B-4F20-8608-B2374F013AF1 Expired", -- dom 10 days 9/7/2026
 "105ada02-27b7-49e2-8f30-a9f683ad1b1a", -- Sarah_Yupii1 1 month 29/7/2026
 "E03A12B5-6E66-4728-B8EE-D51B73FFA633 Expired", -- Luwjuuu 7 days 25/7/2026
-"41d4522f-8004-4724-b6f4-e6051a1e71c9", -- Hfhghgyffygugug 1 days 16/8/2026
+"41d4522f-8004-4724-b6f4-e6051a1e71c9 Expired", -- Hfhghgyffygugug 1 days 16/8/2026
 "84da8291-a151-491a-967b-1e7fb3aab79f Expired", -- haterackzz 1 day 12/6/2026
 "CC01D39F-FBEE-4E96-BF21-6949F1830196 Expired", -- ALTACCNTB2H 1 day 12/7/2026
 "9d357437-c3b1-47a0-9c2f-6018fe8fa861 Expired", -- Kyona 1 day 13/7/2026
@@ -162,5 +162,7 @@ return {
 "ef7983d8-56cb-42a1-a5c8-c649ed4594f8 Expired", -- preciousxx286 1 day 14/8/2026
 "c4b82b9b-ddb3-49cb-83c8-f43a30a366aa Expired", -- Haydenenfwbackup 1 day 15/8/2026
 "4f5ccd21-1ede-4b07-860f-b40f0bb646a7 Expired", -- Isoorai 1 day 17/8/2026
-"3cebef2f-18b5-4210-ab90-7d4ca4bc2e9d" -- Nuledu 1 day 20/8/2026
+"3cebef2f-18b5-4210-ab90-7d4ca4bc2e9d", -- Nuledu 1 day 20/8/2026
+"39415F6C-FDA7-4185-8CC6-27B22E9840E6", -- DOM 4 days 20/8/2026
+"26054b28-6f2d-416c-8a76-d3873ed47b0b" -- j1_otr 1 day 20/8/2026
 }
