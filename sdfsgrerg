@@ -112,7 +112,7 @@ return {
 "6f9aa15c-ed70-4d89-a77c-eaad3e487e04 Expired", -- Atlantic 1 day 8/7/2026
 "7535f4c7-7330-4fea-a0a8-855aabbe9026 Expired", -- Johnv62/Johnv60 2 days 8/7/2026
 "73C3CDD3-7F5B-4F20-8608-B2374F013AF1 Expired", -- dom 10 days 9/7/2026
-"105ada02-27b7-49e2-8f30-a9f683ad1b1a", -- Sarah_Yupii1 1 month 29/7/2026
+"105ada02-27b7-49e2-8f30-a9f683ad1b1a Expired", -- Sarah_Yupii1 1 month 29/7/2026
 "E03A12B5-6E66-4728-B8EE-D51B73FFA633 Expired", -- Luwjuuu 7 days 25/7/2026
 "41d4522f-8004-4724-b6f4-e6051a1e71c9 Expired", -- Hfhghgyffygugug 1 days 16/8/2026
 "84da8291-a151-491a-967b-1e7fb3aab79f Expired", -- haterackzz 1 day 12/6/2026
@@ -153,7 +153,7 @@ return {
 "b4e1dcc8-e897-4682-b302-c9851fc7a673 Expired", -- Sarah_Yupii1 7 days 27/7/2026
 "1bef4bb5-c0c3-4887-b2ed-145256b01ec4 Expired", -- countnracs 1 day 28/7/2026
 "94C2F757-3583-4C11-8D0C-4BC67BD1A4E9 Expired", -- ihateallofyo_u 5 days 1/8/2026
-"8CA5AE8E-D80E-400E-BBD9-36676BE1636D", "2729af77-1944-4439-aa9d-a01ec3eb35b7", -- joao018805 1 Month 2/8/2026
+"8CA5AE8E-D80E-400E-BBD9-36676BE1636D Expired", "2729af77-1944-4439-aa9d-a01ec3eb35b7 Expired", -- joao018805 1 Month 2/8/2026
 "0b3e9ab6-c365-4b31-bb03-e8208daf9bc3 Expired", -- Nuledu 1 day 2/8/2026
 "57993b67-2bd5-47e3-a3a2-6cf4db3b2479 Expired", -- ityoboyzay1213 1 day 6/8/2026
 "1ef42a76-848e-4dcb-b0a7-d3e64c802ad2 Expired", -- Chacotias 1 day 7/8/2026
@@ -175,5 +175,5 @@ return {
 "7df376d5-dbb3-4be5-a0cc-3a11793669c0 Expired", -- cc_k66 1 day 31/8/2026
 "d9d54c0f-80d8-4d97-aaaa-45aa244b73e0", -- Jako_859 1 day 2/9/2026
 "9253c875-b867-434b-a4b0-a8cee7051ee9", -- Ana33lya 5 days 2/9/2026
-"fddc954f-8859-46ba-a8e7-af4942609b9c" -- Jackniceboy67 1 dat 2/9/2026
+"fddc954f-8859-46ba-a8e7-af4942609b9c Expired" -- Jackniceboy67 1 dat 2/9/2026
 }
