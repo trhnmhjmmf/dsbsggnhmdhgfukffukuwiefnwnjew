@@ -178,7 +178,7 @@ return {
 "fddc954f-8859-46ba-a8e7-af4942609b9c Expired", -- Jackniceboy67 1 day 4/9/2026
 "92679bd2-80d9-4fc0-96af-7868dd14575f", -- fernchoquegolazo 1+1 day 16/9/2026
 "5aaaaa5b-5d69-4ca5-8472-f55e3a601bcb", -- Certifiedboi0 1 month 4/9/2026
-"c8e365b1-8583-44ec-885e-faf8319b4a84", -- ss_ak24 5 days 13/9/2026
+"c8e365b1-8583-44ec-885e-faf8319b4a84 Expired", -- ss_ak24 5 days 13/9/2026
 "2C095158-0A6C-4363-99DA-F115CBCFACBD Expired", "d8992c2b-3ebe-4d5a-b95c-333ff0c6d2a6 Expired", -- hhahha073 5 days 5/9/2026
 "73059adc-40b0-4636-9afb-6d3d2711f8be Expired", -- rambu_142 1 day 5/9/2026
 "9bb54606-3415-4c20-addf-e7dfa9eca018 Expired", -- 4O4_hacke5 1 day 6/9/2026
@@ -187,5 +187,6 @@ return {
 "f01f4f83-8b83-48e0-9018-053c51dc623d Expired", -- d_lrince292 1 day 7/9/2026
 "f023e3f9-52c1-4d12-8357-42c097dc7c9c Expired", -- iAccel0 1 day 12/9/2026
 "B1229734-E14A-4AF4-9922-481838947A7A", -- jjnthn12 7 days 13/9/2026
-"46ec16dd-dcdb-4119-96a0-db00866c0ead" -- iamheavenssent 1 day 18/9/2026
+"46ec16dd-dcdb-4119-96a0-db00866c0ead", -- iamheavenssent 1 day 18/9/2026
+"0F46D472-663A-430E-933C-6F8DD957C0A5" -- fredy 1 day 19/9/2026
 }
