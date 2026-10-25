@@ -191,14 +191,14 @@ return {
 "AA3B0D78-891F-4548-83D5-F511C646E47D Expired", -- Synbox98 2 days 19/9/2026
 "fb43d19c-8469-40be-8df7-1652234dcf0b Expired", -- hiyour935 1 day 20/9/2026
 "379e797f-442c-45d0-ae5f-a33444c4965a Expired", -- AHHHHHH2617812 1 day 22/9/2026
-"d6cbf457-cdb0-485f-91d5-ce5abcaf756a", -- LildudeJR84 1 month 22/9/2026
+"d6cbf457-cdb0-485f-91d5-ce5abcaf756a Expired", -- LildudeJR84 1 month 22/9/2026
 "49cf282e-406e-42b4-ad02-4bc464e9643a", -- Sarah_Yupii1 7 days 17/10/2026
 "57B4D568-BF9F-4BEA-A302-2D189FFC5DA4", -- iam666donthackcloak 7 days 16/10/2026
 "ec274134-11a8-426e-b5cf-360c3c80e009 Expired", -- bootscootpro 1 day 17/10/2026
 "8115914d-bba8-4f58-8b9e-01174387af79", -- Vvise 5 days 17/10/2026
 "1c0f039f-1ff9-4ec5-bcd0-0235459e262f Expired", -- Hedcman 1 day 18/10/2026
 "182ABF0A-3C8C-45CF-BF6A-B5A6FB051FE3", -- jakianamessiana 7 days 20/10/2026
-"da5d35c2-99f6-4e73-a50c-848a138c0ffc", -- Johnnv62 1 day 22/10/2026
+"da5d35c2-99f6-4e73-a50c-848a138c0ffc Expired", -- Johnnv62 1 day 22/10/2026
 "303858e7-aab9-4ef9-99d8-d6a9174c73f8", -- Fembigga 7 days 22/10/2026
 "7248325C-DE89-466F-AF25-CB4F677BC48C", -- redz 7 days 24/10/2026
 "2A8F89F1-4797-422F-B4A8-51083F7563C1", -- Crash 7 days 24/10/2026
@@ -210,5 +210,6 @@ return {
 "2ad38a52-636a-4868-82b2-afd906b30e8f", -- Dvon456 1 day 24/10/2026
 "f55e270e-bba5-41e5-b854-7339d0e06a8f", -- Cool_beans038 1 day 24/10/2026
 "3ba9451f-040f-49d9-b369-56badcaf0eca", -- Roisesalas 1 day 25/10/2026
-"47fb1adf-a9ab-4265-91f2-236cced7cf20" -- wjsbjebfiebfiooifeib 5 days 25/10/2026
+"47fb1adf-a9ab-4265-91f2-236cced7cf20", -- wjsbjebfiebfiooifeib 5 days 25/10/2026
+"85AA6D49-D5F0-45C2-8951-DBEE5D4EC0EE" -- propetalt 1 day 25/10/2026
 }
