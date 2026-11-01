@@ -195,7 +195,7 @@ return {
 "49cf282e-406e-42b4-ad02-4bc464e9643a Expired", -- Sarah_Yupii1 7 days 17/10/2026
 "57B4D568-BF9F-4BEA-A302-2D189FFC5DA4 Expired", -- iam666donthackcloak 7 days 16/10/2026
 "ec274134-11a8-426e-b5cf-360c3c80e009 Expired", -- bootscootpro 1 day 17/10/2026
-"8115914d-bba8-4f58-8b9e-01174387af79", -- Vvise 5 days 17/10/2026
+"8115914d-bba8-4f58-8b9e-01174387af79 Expired", -- Vvise 5 days 17/10/2026
 "f93b0e4c-e0b2-483d-a008-294547a08296 Expired", -- Hedcman 1 day 18/10/2026
 "182ABF0A-3C8C-45CF-BF6A-B5A6FB051FE3 Expired", -- jakianamessiana 7 days 20/10/2026
 "da5d35c2-99f6-4e73-a50c-848a138c0ffc Expired", -- Johnnv62 1 day 22/10/2026
@@ -218,5 +218,6 @@ return {
 "e83be42f-7b1e-4d3b-a13d-279698f41c79 Expired", -- Cody91115 1 day 28/10/2026
 "14835407-915d-4ee3-9e39-9f702f16b8aa Expired", -- broyiugay 1 day 28/10/2026
 "abfefdac-098d-440e-8caa-e3d4623e9ed6", -- DawnLugo12 2 days 30/10/2026
-"0d818329-13bf-493f-8a1b-e28741670cd9" -- quixoticen 1 day 31/10/2026
+"0d818329-13bf-493f-8a1b-e28741670cd9", -- quixoticen 1 day 31/10/2026
+"E2F7841C-8CDD-43FB-BD29-8D895851CD82" -- FizzBerry2424 1 day 1/11/2026
 }
